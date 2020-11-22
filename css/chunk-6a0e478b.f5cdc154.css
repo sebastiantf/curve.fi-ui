@@ -1,0 +1,55 @@
+.descriptions[data-v-f2d2e0f4] {
+    height: 0;
+    overflow: hidden;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    margin-left: 2.2em
+}
+
+fieldset>div:hover .descriptions[data-v-f2d2e0f4] {
+    padding-top: .6em;
+    height: 30px
+}
+
+.poolsdialog div[data-v-f2d2e0f4]:hover {
+    background: transparent;
+    color: #000
+}
+
+fieldset>div>a[data-v-f2d2e0f4] {
+    height: 2em;
+    vertical-align: middle;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex
+}
+
+fieldset>div>a .index[data-v-f2d2e0f4] {
+    -webkit-box-flex: 0.1;
+    -ms-flex: 0.1;
+    flex: 0.1
+}
+
+fieldset>div>a .icon-container[data-v-f2d2e0f4] {
+    height: auto;
+    -webkit-box-flex: 0.15;
+    -ms-flex: 0.15;
+    flex: 0.15
+}
+
+fieldset>img[data-v-f2d2e0f4] {
+    vertical-align: middle
+}
+
+fieldset>div>a .text[data-v-f2d2e0f4] {
+    -webkit-box-flex: 3;
+    -ms-flex: 3;
+    flex: 3
+}
+
+.dydx.icon[data-v-f2d2e0f4] {
+    -webkit-filter: brightness(0) saturate(100%);
+    filter: brightness(0) saturate(100%);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5)
+}

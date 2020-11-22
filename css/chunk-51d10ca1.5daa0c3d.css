@@ -1,0 +1,27 @@
+select[data-v-0441788e] {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    margin-bottom: 10px
+}
+
+button[data-v-0441788e] {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    margin-left: 10px
+}
+
+.poolselect[data-v-0441788e] {
+    margin-bottom: 10px
+}
+
+.poolselect>label[data-v-0441788e]:first-of-type {
+    margin-left: 0
+}
+
+.poolselect>label[data-v-0441788e] {
+    margin-left: 1em
+}
+
+label[for=hbtcpool][data-v-0441788e] {
+    margin-left: 0
+}

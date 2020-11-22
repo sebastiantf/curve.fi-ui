@@ -1,0 +1,51 @@
+.pulse[data-v-207c7b6a] {
+    -webkit-animation: pulse 1s 3;
+    animation: pulse 1s 3;
+    margin-bottom: 8px
+}
+
+#custom_gas_wrapper[data-v-207c7b6a] {
+    margin-top: .4em;
+    margin-left: 6em;
+    display: block
+}
+
+.gastoolow[data-v-207c7b6a] {
+    color: #8b0000
+}
+
+@media only screen and (max-device-width:730px) {
+    #custom_gas_wrapper[data-v-207c7b6a],
+    #gas_price label[data-v-207c7b6a] {
+        margin-top: 0;
+        margin-left: 0
+    }
+}
+
+.actualvalue[data-v-4ed1dca7] {
+    margin: .5em 0 0 0;
+    text-align: right;
+    font-size: .9em
+}
+
+#no-balance[data-v-4ed1dca7] {
+    text-align: center
+}
+
+.swapBTC-container[data-v-4ed1dca7] {
+    margin-top: 1em
+}
+
+.pulse[data-v-4ed1dca7] {
+    -webkit-animation: pulse 1s 3;
+    animation: pulse 1s 3;
+    margin-bottom: 8px
+}
+
+.advancedoptions[data-v-4ed1dca7] {
+    margin-top: 1em
+}
+
+.advancedoptions+div legend[data-v-4ed1dca7] {
+    text-align: center
+}

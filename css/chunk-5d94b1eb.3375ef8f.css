@@ -1,0 +1,38 @@
+.margintop {
+    margin-top: .3em
+}
+
+#myAddress a {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    color: #fff
+}
+
+a.showmobile {
+    display: none
+}
+
+@media only screen and (min-device-width:320px) and (max-device-width:730px) {
+    #hamburger:checked~a.showmobile {
+        display: block
+    }
+    .blue.window.half-width,
+    .info-message.window.half-width {
+        width: 90%
+    }
+}
+
+h1>img {
+    height: 52.125px
+}
+
+.simple-error.window {
+    -webkit-box-shadow: none;
+    box-shadow: none
+}
+
+.CRV a:hover,
+.CRV a:visited {
+    color: #fff
+}

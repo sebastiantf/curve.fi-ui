@@ -1,0 +1,218 @@
+fieldset div[data-v-304cc845] {
+    display: block
+}
+
+fieldset div[data-v-304cc845]:nth-of-type(3),
+fieldset div[data-v-304cc845]:nth-of-type(n+2) {
+    margin-top: 1em
+}
+
+fieldset legend[data-v-304cc845] {
+    text-align: center
+}
+
+#select_pool[data-v-7b942606] {
+    margin-bottom: 10px
+}
+
+[data-v-7b942606] .exchange {
+    width: 100%
+}
+
+[data-v-7b942606] .trade-buttons {
+    margin: 0
+}
+
+.swapBTC-container[data-v-7b942606] {
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+
+.loading.line[data-v-7b942606] {
+    margin-left: 1em
+}
+
+.aligncontainer[data-v-7b942606] {
+    margin: 0 auto;
+    width: 100%
+}
+
+.swapBTC-container.info-message[data-v-7b942606] {
+    margin: 0;
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+
+.swapBTC-container a[data-v-7b942606] {
+    color: #fff
+}
+
+.swapBTC-wrapper[data-v-7b942606] {
+    display: grid;
+    grid-template-columns: minmax(30px, 210px) minmax(30px, 210px);
+    grid-gap: 1em
+}
+
+.swapBTC-container.info-message[data-v-7b942606] {
+    padding-top: .4em;
+    padding-bottom: .4em
+}
+
+@media only screen and (min-device-width:320px) and (max-device-width:730px) {
+    #app .tradeview[data-v-30161758] {
+        width: 90%
+    }
+    .poolsdialog.poolsdialog>div a[data-v-30161758] {
+        display: block;
+        text-align: center
+    }
+    .poolsdialog .balance[data-v-30161758] {
+        width: 100%
+    }
+    .poolsdialog .balance .showmobile[data-v-30161758] {
+        display: block;
+        text-align: center
+    }
+    .poolsdialog .balance .tooltip[data-v-30161758] {
+        display: none
+    }
+    .poolsdialog.poolsdialog>div a>span[data-v-30161758] {
+        display: block;
+        text-align: center
+    }
+    .poolsdialog.poolsdialog>div span.index[data-v-30161758],
+    .poolsdialog.poolsdialog>div span.pooltext[data-v-30161758] {
+        display: inline
+    }
+    .pools[data-v-30161758] {
+        width: 100%
+    }
+    .poolsdialog .incentive-apr[data-v-30161758] {
+        text-align: center
+    }
+}
+
+.poolsdialog>div a[data-v-30161758] {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between
+}
+
+.poolsdialog>div>a:hover .tooltip[data-v-30161758] {
+    border-bottom: 1px dotted #fff
+}
+
+.poolsdialog>div>a:hover img[data-v-30161758] {
+    -webkit-filter: invert(1);
+    filter: invert(1)
+}
+
+.poolsdialog>div a span[data-v-30161758] {
+    text-align: left
+}
+
+.index[data-v-30161758] {
+    -webkit-box-flex: 0.1;
+    -ms-flex: 0.1;
+    flex: 0.1
+}
+
+.pooltext[data-v-30161758] {
+    -webkit-box-flex: 0.4;
+    -ms-flex: 0.4;
+    flex: 0.4
+}
+
+.pools[data-v-30161758] {
+    -webkit-box-flex: 1.6;
+    -ms-flex: 1.6;
+    flex: 1.6
+}
+
+.apr[data-v-30161758] {
+    -webkit-box-flex: 0.88;
+    -ms-flex: 0.88;
+    flex: 0.88
+}
+
+.volume[data-v-30161758] {
+    -webkit-box-flex: 0.8;
+    -ms-flex: 0.8;
+    flex: 0.8
+}
+
+.balance[data-v-30161758] {
+    width: 12px
+}
+
+.pools .tooltip[data-v-30161758] {
+    vertical-align: bottom;
+    overflow: hidden
+}
+
+.tooltip[data-v-30161758] {
+    position: relative;
+    margin-left: 0
+}
+
+.tooltiptext.long[data-v-30161758] {
+    max-width: 250px;
+    position: absolute;
+    margin-left: 0;
+    -webkit-transform: translateX(-50%) translateX(6px);
+    transform: translateX(-50%) translateX(6px)
+}
+
+.tooltiptext.long a[data-v-30161758] {
+    display: inline-block;
+    background: transparent;
+    text-decoration: underline
+}
+
+.tooltiptext.long>div[data-v-30161758] {
+    padding-left: 1em;
+    text-align: left
+}
+
+.tooltiptext.long>div[data-v-30161758]:hover {
+    background: none
+}
+
+.balance img[data-v-30161758] {
+    height: 12px
+}
+
+.poolsdialog>div[data-v-30161758] {
+    margin-top: 1em
+}
+
+.nomarginend[data-v-30161758] {
+    -webkit-margin-after: 0;
+    margin-block-end: 0
+}
+
+fieldset legend[data-v-30161758] {
+    text-align: center
+}
+
+.greentext[data-v-30161758] {
+    color: #006400
+}
+
+.zksyncs a[data-v-30161758] {
+    border-bottom: 1px dashed #fff
+}
+
+.zksyncs a[data-v-30161758]:hover {
+    border-bottom: 1px solid #fff;
+    text-decoration: none
+}
+
+.zksyncs a[data-v-30161758],
+.zksyncs a[data-v-30161758]:hover,
+.zksyncs a[data-v-30161758]:visited {
+    color: #fff
+}

@@ -1,0 +1,22 @@
+.allapys[data-v-181124b5] {
+    margin-top: .7em;
+    margin-bottom: .7em
+}
+
+.allapys>p[data-v-181124b5] {
+    margin-top: .3em;
+    margin-bottom: .3em
+}
+
+fieldset div[data-v-304cc845] {
+    display: block
+}
+
+fieldset div[data-v-304cc845]:nth-of-type(3),
+fieldset div[data-v-304cc845]:nth-of-type(n+2) {
+    margin-top: 1em
+}
+
+fieldset legend[data-v-304cc845] {
+    text-align: center
+}

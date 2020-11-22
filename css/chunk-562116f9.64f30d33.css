@@ -1,0 +1,4 @@
+#profit-info label[for=showinUSD]:before {
+    width: auto;
+    margin-right: .3em
+}

@@ -1,0 +1,48 @@
+.margintop[data-v-26f6f231] {
+    margin-top: .3em
+}
+
+#myAddress a[data-v-26f6f231] {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    color: #fff
+}
+
+@media only screen and (min-device-width:320px) and (max-device-width:730px) {
+    .top-menu-bar>.poolsdropdown[data-v-26f6f231] {
+        display: none
+    }
+    .blue.window.half-width[data-v-26f6f231],
+    .info-message.window.half-width[data-v-26f6f231] {
+        width: 90%
+    }
+}
+
+h1>img[data-v-26f6f231] {
+    height: 52.125px
+}
+
+.simple-error.window[data-v-26f6f231] {
+    -webkit-box-shadow: none;
+    box-shadow: none
+}
+
+.blue.window.Events+.info-message.gentle-message[data-v-26f6f231] {
+    width: 730px;
+    max-width: 730px
+}
+
+.blue.window.Trade+.info-message.gentle-message[data-v-26f6f231] {
+    width: 1000px;
+    max-width: 1000px
+}
+
+.CRV a[data-v-26f6f231]:hover,
+.CRV a[data-v-26f6f231]:visited {
+    color: #fff
+}
+
+.useCRV img[data-v-26f6f231] {
+    vertical-align: middle
+}

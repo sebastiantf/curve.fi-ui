@@ -1,0 +1,36 @@
+legend[data-v-773e0652] {
+    text-align: center
+}
+
+.contractsdialog a[data-v-773e0652] {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding: .1em
+}
+
+.contractsdialog a img[data-v-773e0652] {
+    margin-right: 10px
+}
+
+.contractsdialog div[data-v-773e0652] {
+    display: block;
+    margin-top: 10px
+}
+
+.contractsdialog a[data-v-773e0652]:hover {
+    background-color: #00f;
+    color: #fff
+}
+
+.simple-error[data-v-773e0652] {
+    margin-bottom: 1em
+}
+
+.buttoncontracts[data-v-773e0652] {
+    margin-right: 1em
+}
+
+.disabledGauge[data-v-773e0652] {
+    opacity: .5
+}

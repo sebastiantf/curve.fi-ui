@@ -1,0 +1,40 @@
+fieldset legend[data-v-8bd8d166] {
+    text-align: center
+}
+
+fieldset>div[data-v-8bd8d166] {
+    margin-top: 1em
+}
+
+.title[data-v-8bd8d166] {
+    font-weight: bolder
+}
+
+.first-letter[data-v-8bd8d166] {
+    color: #ff0
+}
+
+.description[data-v-8bd8d166] {
+    padding: .3em;
+    margin-top: .3em
+}
+
+.description li[data-v-8bd8d166] {
+    margin-top: .3em
+}
+
+.low[data-v-8bd8d166] {
+    color: grey
+}
+
+.medium[data-v-8bd8d166] {
+    color: green
+}
+
+.high[data-v-8bd8d166] {
+    color: purple
+}
+
+.veryhigh[data-v-8bd8d166] {
+    color: #8b0000
+}

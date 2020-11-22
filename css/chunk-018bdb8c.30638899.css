@@ -1,0 +1,13 @@
+.window.white a[data-v-3c36e0bc] {
+    border-bottom: 1px dashed grey
+}
+
+.window.white a[data-v-3c36e0bc]:hover {
+    border-bottom: none
+}
+
+.window.white .devserver[data-v-3c36e0bc] {
+    font-size: .8em;
+    border-bottom: none;
+    opacity: .2
+}

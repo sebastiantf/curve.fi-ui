@@ -1,0 +1,13 @@
+.tooltip[data-v-40a0a460] {
+    margin-left: 0
+}
+
+.tooltip .tooltiptext[data-v-40a0a460] {
+    font-weight: 400;
+    background-color: #aaa;
+    color: #000
+}
+
+.tooltip .tooltiptext[data-v-40a0a460]:after {
+    border-color: #aaa transparent transparent transparent
+}

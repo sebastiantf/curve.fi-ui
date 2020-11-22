@@ -1,0 +1,27 @@
+legend[data-v-a786977e] {
+    text-align: center
+}
+
+.devdialog a[data-v-a786977e] {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: .1em
+}
+
+.devdialog a img[data-v-a786977e] {
+    margin-right: 10px
+}
+
+.devdialog div[data-v-a786977e] {
+    display: block;
+    margin-top: 10px
+}
+
+.devdialog a[data-v-a786977e]:hover {
+    background-color: #00f;
+    color: #fff
+}

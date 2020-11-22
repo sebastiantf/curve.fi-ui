@@ -1,0 +1,85 @@
+.pulse[data-v-207c7b6a] {
+    -webkit-animation: pulse 1s 3;
+    animation: pulse 1s 3;
+    margin-bottom: 8px
+}
+
+#custom_gas_wrapper[data-v-207c7b6a] {
+    margin-top: .4em;
+    margin-left: 6em;
+    display: block
+}
+
+.gastoolow[data-v-207c7b6a] {
+    color: #8b0000
+}
+
+@media only screen and (max-device-width:730px) {
+    #custom_gas_wrapper[data-v-207c7b6a],
+    #gas_price label[data-v-207c7b6a] {
+        margin-top: 0;
+        margin-left: 0
+    }
+}
+
+fieldset[data-v-16f13224] {
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+legend[data-v-16f13224] {
+    text-align: center
+}
+
+.simple-error[data-v-16f13224] {
+    width: 100%
+}
+
+.noheight[data-v-16f13224] {
+    height: 0
+}
+
+.paycontainer[data-v-16f13224] {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap
+}
+
+.paycontainer select[data-v-16f13224] {
+    margin-left: .5em
+}
+
+#payamount[data-v-16f13224] {
+    max-width: 10em;
+    margin-left: 3px
+}
+
+#submit[data-v-16f13224] {
+    margin-top: 10px;
+    margin-left: 3px
+}
+
+.flex-break[data-v-16f13224] {
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    height: 0;
+    margin-top: 10px
+}
+
+#balance[data-v-16f13224] {
+    margin-left: 7px;
+    -ms-flex-item-align: center;
+    align-self: center;
+    cursor: pointer
+}
+
+#balance[data-v-16f13224]:hover {
+    text-decoration: underline
+}
+
+select[data-v-16f13224] {
+    -webkit-box-shadow: none;
+    box-shadow: none
+}
